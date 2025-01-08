@@ -1,4 +1,5 @@
-#Password Verification Form
+# Password Verification Form
+
 This is a simple Password Verification Form built using HTML, CSS, and JavaScript. The form allows users to enter a username, password, and confirm their password. Upon submission, the form will verify if the password and re-typed password match and display an appropriate message.
 
 Features
